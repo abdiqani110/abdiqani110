@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**abdiqani110/abdiqani110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst based in Mogadishu, Somalia 🇸🇴. I'm passionate about using data to drive business decisions and improve processes.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data analysis
+- Data visualization
+- Microsoft Excel spreadsheet
+- SQL
+- Python
+- R
+- Tableau & Microsoft power BI
+
+## Projects
+
+### Project 1: IDPs in somalia analysis
+
+- Analyzed Somalia-IDPs data to identify problems and trends in IDPs
+- Created visualizations to get insights from data
+- Tools used: Python, Pandas, Matplotlib
+
+### Project 2: Somalia population disagregation analysis and visualization
+
+- Conducted somalia population analysis to identify different disagregation groups and state populations
+- Created defferent visualization graphs using R ggplot2 liberary
+- Tools used: R, ggplot2
+
+## Contact me
+
+- LinkedIn: [linkedin.com/in/abdiqani](https://www.linkedin.com/in/abdiqani110/)
+- Email: abdiqani110@gmail.com
