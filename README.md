@@ -25,7 +25,7 @@ I'm a data analyst based in Mogadishu, Somalia 🇸🇴. I'm passionate about us
 - Conducted somalia population analysis to identify different disagregation groups and state populations
 - Created defferent visualization graphs using R ggplot2 liberary
 - Tools used: R, ggplot2
--  link [Somalia-population-data-analysis]([./example.py](https://github.com/abdiqani110/Somali-population-data-analysis-and-visualization-using-R))
+-  link [Somalia-population-data-analysis](https://github.com/abdiqani110/Somali-population-data-analysis-and-visualization-using-R)
 
 ## Contact me
 
